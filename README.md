@@ -8,8 +8,7 @@
 
 -----------------------------------------------------------------------------------
 
-## [Generate links to files inside this directory and below in the format of Markdown]
-(https://github.com/janis-rullis/shell-scripts/tree/master/md-tree-gen)
+## [Generate links to files inside this directory and below in the format of Markdown](https://github.com/janis-rullis/shell-scripts/tree/master/md-tree-gen)
 
  * [docs](./docs)
    * [how-to](./docs/how-to)
