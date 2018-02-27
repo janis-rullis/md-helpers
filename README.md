@@ -17,6 +17,11 @@
  * [README.md](./README.md)
  * [md-tree-gen.sh](./md-tree-gen.sh)
 
+## Sample of links formated like a header menu
+
+`## [Home](Home/) | [Products](Products/) | [Gallery](Gallery/) | [Partners](Partners/) | Projects | [About us](About-us/) | [Contacts](Contacts/)`
+
+![image](images/header-menu.png]
 
 ## Random tips
 
