@@ -26,7 +26,7 @@
 
 `## [Home](Home/) | [Products](Products/) | [Gallery](Gallery/) | [Partners](Partners/) | Projects | [About us](About-us/) | [Contacts](Contacts/)`
 
-![image](images/header-menu.png]
+![image](images/header-menu.png)
 
 ## Random tips
 
