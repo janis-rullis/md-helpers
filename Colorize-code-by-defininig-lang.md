@@ -25,8 +25,6 @@ function shout(str){
 shout('Hey');
 ```
 
-```
-
 ## PHP
 
 ```php
