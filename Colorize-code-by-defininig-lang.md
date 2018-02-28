@@ -33,7 +33,9 @@ shout('Hey');
 
 ## CSS
 ```css
-color: red;
+button{
+  color: red;
+}
 ```
 
 ## NGINX
