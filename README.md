@@ -1,5 +1,11 @@
 # md-helpers
 
+## [Preview MarkDown files from terminal using ReText](https://github.com/janis-rullis/shell-scripts/blob/master/mdpr.sh)
+
+```bash
+mdpr
+```
+
 ## [Generate a navigation bar for Markdown like this](https://github.com/janis-rullis/shell-scripts/tree/master/md-nav-gen)
 
 -----------------------------------------------------------------------------------
@@ -24,7 +30,9 @@
 
 ## Sample of links formated like a header menu
 
-`## [Home](Home/) | [Products](Products/) | [Gallery](Gallery/) | [Partners](Partners/) | Projects | [About us](About-us/) | [Contacts](Contacts/)`
+```markdown
+## [Home](Home/) | [Products](Products/) | [Gallery](Gallery/) | [Partners](Partners/) | Projects | [About us](About-us/) | [Contacts](Contacts/)
+```
 
 ![image](images/header-menu.png)
 
