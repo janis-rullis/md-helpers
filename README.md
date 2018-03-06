@@ -5,6 +5,7 @@
 ```bash
 mdpr
 ```
+> Ctrl + E - Switch the Preview / Edit mode.
 
 ## [Generate a navigation bar for Markdown like this](https://github.com/janis-rullis/shell-scripts/tree/master/md-nav-gen)
 
