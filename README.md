@@ -8,24 +8,28 @@ Preview MarkDown files from terminal using ReText.
 
 Generate a navigation bar, like this.
 
+```md
 -----------------------------------------------------------------------------------
 
 ### / [shell-scripts](../) / [md-nav-gen](.)
 
 -----------------------------------------------------------------------------------
+```
 
 ## [md-ls-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-ls-gen)
 
 Generate links to files inside this directory.
 
+```md
 * [docs](./docs)
 * [how-to](./docs/how-to)
+```
 
 ## [md-tree-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-tree-gen)
 
 Generate links to files inside this directory and below.
 
-```md
+```markdown
  * [docs](./docs)
    * [how-to](./docs/how-to)
    * [serve.md](./docs/how-to/serve.md)
