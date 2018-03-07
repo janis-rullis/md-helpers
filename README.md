@@ -36,6 +36,21 @@ Generate links to files inside this directory and below.
  * [md-tree-gen.sh](./md-tree-gen.sh)
 ```
 
+## [md-img-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-img-gen)
+
+Include all images from all directories below in the format of Markdown.
+
+```markdown
+#### 1/2/3/apply canvas
+![1/2/3/apply canvas](1/2/3/apply-canvas.png)
+
+#### 1/2/3/rippling
+![1/2/3/rippling](1/2/3/rippling.png)
+
+#### 1/orig 250x
+![1/orig 250x](1/orig-250x.jpg)
+```
+
 ## Sample of links formated like a header menu
 
 ```markdown
