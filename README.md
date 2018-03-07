@@ -51,13 +51,11 @@ Include all images from all directories below in the format of Markdown.
 ![1/orig 250x](1/orig-250x.jpg)
 ```
 
-## Sample of links formated like a header menu
+## [Sample of links formated like a header menu](https://github.com/janis-rullis/dzhim-cms/tree/master/docs/DEMO/Projects)
 
 ```markdown
 ## [Home](Home/) | [Products](Products/) | [Gallery](Gallery/) | [Partners](Partners/) | Projects | [About us](About-us/) | [Contacts](Contacts/)
 ```
-
-![image](images/header-menu.png)
 
 ## Random tips
 
