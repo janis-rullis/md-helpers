@@ -1,13 +1,12 @@
-# md-helpers
-
-## [`mdpr`](https://github.com/janis-rullis/shell-scripts/blob/master/mdpr.sh)
+## [mdpr](https://github.com/janis-rullis/shell-scripts/blob/master/mdpr.sh)
 
 Preview MarkDown files from terminal using ReText.
+
 > Ctrl + E - Switch the Preview / Edit mode.
 
 ##  [md-nav-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-nav-gen)
 
-Generate a navigation bar like this.
+Generate a navigation bar, like this.
 
 -----------------------------------------------------------------------------------
 
@@ -15,23 +14,29 @@ Generate a navigation bar like this.
 
 -----------------------------------------------------------------------------------
 
-## [Generate links to files inside this directory](https://github.com/janis-rullis/shell-scripts/tree/master/md-ls-gen)
+## [md-ls-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-ls-gen)
+
+Generate links to files inside this directory.
 
 * [docs](./docs)
 * [how-to](./docs/how-to)
 
-## [Generate links to files inside this directory and below](https://github.com/janis-rullis/shell-scripts/tree/master/md-tree-gen)
+## [md-tree-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-tree-gen)
 
+Generate links to files inside this directory and below.
+
+```md
  * [docs](./docs)
    * [how-to](./docs/how-to)
    * [serve.md](./docs/how-to/serve.md)
  * [Tree.md](./Tree.md)
  * [README.md](./README.md)
  * [md-tree-gen.sh](./md-tree-gen.sh)
+```
 
 ## Sample of links formated like a header menu
 
-```markdown
+```md
 ## [Home](Home/) | [Products](Products/) | [Gallery](Gallery/) | [Partners](Partners/) | Projects | [About us](About-us/) | [Contacts](Contacts/)
 ```
 
