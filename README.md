@@ -6,13 +6,11 @@ Preview MarkDown files from terminal using ReText.
 
 ##  [md-nav-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-nav-gen)
 
-Generate a navigation bar, like this.
+Generate a navigation bar.
 
-```md
+```markdown
 -----------------------------------------------------------------------------------
-
 ### / [shell-scripts](../) / [md-nav-gen](.)
-
 -----------------------------------------------------------------------------------
 ```
 
@@ -20,7 +18,7 @@ Generate a navigation bar, like this.
 
 Generate links to files inside this directory.
 
-```md
+```markdown
 * [docs](./docs)
 * [how-to](./docs/how-to)
 ```
@@ -40,7 +38,7 @@ Generate links to files inside this directory and below.
 
 ## Sample of links formated like a header menu
 
-```md
+```markdown
 ## [Home](Home/) | [Products](Products/) | [Gallery](Gallery/) | [Partners](Partners/) | Projects | [About us](About-us/) | [Contacts](Contacts/)
 ```
 
