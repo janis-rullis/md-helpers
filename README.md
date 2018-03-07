@@ -1,13 +1,13 @@
 # md-helpers
 
-## [Preview MarkDown files from terminal using ReText](https://github.com/janis-rullis/shell-scripts/blob/master/mdpr.sh)
+## [`mdpr`](https://github.com/janis-rullis/shell-scripts/blob/master/mdpr.sh)
 
-```bash
-mdpr
-```
+Preview MarkDown files from terminal using ReText.
 > Ctrl + E - Switch the Preview / Edit mode.
 
-## [Generate a navigation bar for Markdown like this](https://github.com/janis-rullis/shell-scripts/tree/master/md-nav-gen)
+##  [md-nav-gen](https://github.com/janis-rullis/shell-scripts/tree/master/md-nav-gen)
+
+Generate a navigation bar like this.
 
 -----------------------------------------------------------------------------------
 
@@ -15,12 +15,12 @@ mdpr
 
 -----------------------------------------------------------------------------------
 
-## [Generate links to files inside this directory in the format of Markdown](https://github.com/janis-rullis/shell-scripts/tree/master/md-ls-gen)
+## [Generate links to files inside this directory](https://github.com/janis-rullis/shell-scripts/tree/master/md-ls-gen)
 
 * [docs](./docs)
 * [how-to](./docs/how-to)
 
-## [Generate links to files inside this directory and below in the format of Markdown](https://github.com/janis-rullis/shell-scripts/tree/master/md-tree-gen)
+## [Generate links to files inside this directory and below](https://github.com/janis-rullis/shell-scripts/tree/master/md-tree-gen)
 
  * [docs](./docs)
    * [how-to](./docs/how-to)
