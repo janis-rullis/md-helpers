@@ -1,3 +1,8 @@
+## MD Editors
+
+* ReText
+* [Caret](https://caret.io/)
+
 ## [mdpr](https://github.com/janis-rullis/shell-scripts/blob/master/mdpr.sh)
 
 Preview MarkDown files from terminal using ReText.
