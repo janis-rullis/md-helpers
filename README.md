@@ -67,4 +67,4 @@ Include all images from all directories below in the format of Markdown.
 ### Images
 
 * I've found that the perfect size for an image in Markdown docs, is when one of
- the dimensions (width or height) is `250-300px`. [Example](https://github.com/janis-rullis/construction/blob/master/Door-locks.md).
+ the dimensions (width or height) is `250-300px`. [Example](https://github.com/janis-rullis/construction/blob/master/Door-locks.md). 
